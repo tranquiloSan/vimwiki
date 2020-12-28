@@ -1,3 +1,3 @@
 # Random notes
 
-[VUT NOTES](vut/vut_notes)
+[VUT NOTES](vut/vut_notes.md)

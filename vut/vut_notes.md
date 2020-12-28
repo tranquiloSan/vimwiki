@@ -8,7 +8,7 @@
 ### Sem4
 ## Rok3
 ### Sem5
-#### [ITU](ITU)
+#### [ITU](ITU.md)
 ### Sem6
 ## Rok4
 ### Sem7
