@@ -1,2 +1,0 @@
-# vimwiki
-vimwiki notes
